@@ -1,5 +1,6 @@
 # Can Self Reported Symptoms Predict Daily COVID-19 Cases?
 * Official code for the paper ['Can Self Reported Symptoms Predict Daily COVID-19 Cases?'](https://arxiv.org/abs/2105.08321) 
+* Paper accepted for full-length oral presentation at the International Workshop on Artificial Intelligence for Social Good (AI4SG), IJCAI-21
 * ``state_with_real_numbers.csv`` is the output of ``ijcai_combine_datasets.ipynb``.
 
 
