@@ -3,11 +3,11 @@ Official code for the paper ['Can Self Reported Symptoms Predict Daily COVID-19 
 'state_with_real_numbers.csv' is the output of 'ijcai_combine_datasets.ipynb' 
 
 if you find this repo useful, please cite out paper: <br>
-@misc{patwa2021self,
-      title={Can Self Reported Symptoms Predict Daily COVID-19 Cases?}, 
-      author={Parth Patwa and Viswanatha Reddy and Rohan Sukumaran and Sethuraman TV and Eptehal Nashnoush and Sheshank Shankar and Rishemjit Kaur and Abhishek Singh and Ramesh Raskar},
-      year={2021},
-      eprint={2105.08321},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@misc{patwa2021self, <br>
+      title={Can Self Reported Symptoms Predict Daily COVID-19 Cases?},  <br>
+      author={Parth Patwa and Viswanatha Reddy and Rohan Sukumaran and Sethuraman TV and Eptehal Nashnoush and Sheshank Shankar and Rishemjit Kaur and Abhishek Singh and Ramesh Raskar}, <br>
+      year={2021}, <br>
+      eprint={2105.08321}, <br>
+      archivePrefix={arXiv}, <br>
+      primaryClass={cs.LG} <br>
 }
